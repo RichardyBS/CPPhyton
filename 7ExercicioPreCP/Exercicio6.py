@@ -16,4 +16,4 @@ GastoWattsMes = Chuveiro * 30
 GastoMensal = GastoWattsMes * 0.40
 
 print(f"Tendo um Gasto Por mes de {GastoWattsMes}Kwh")
-print(f"E o Valor a ser Pago por Kmw no mes e de: {GastoMensal}")
+print(f"E o Valor a ser Pago por Kmw no mes e de: {GastoMensal}R$")
